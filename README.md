@@ -21,8 +21,11 @@ Archivos y propósito
 - `beta.py`  
   Carga los datos guardados (`beta_logdata.dat`), calcula el exponente beta mediante regresión lineal, grafica la recta ajustada y muestra el valor y el error de la pendiente.
 
-- `equilibrio_autocorrelacion.py` y `Equilibrio_magnetizacion_energia.py`
-  Scripts que estudian distintos criterios de estado de equilibrio.
+- `equilibrio_autocorrelacion.py`
+  Script para la exploración del tiempo de equilibrio en función de la temperatura, a partir del cálculo de las fluctuaciones de la magnetización y estableciendo un criterio de tolerancia.
+
+- `Equilibrio_magnetizacion_energia.py`
+  Script para la exploración del tiempo de equilibrio en función de la temperatura, a partir del cálculo de las fluctuaciones de la magnetización y estableciendo un criterio de tolerancia.
 
 Ejecución
 Para ejecutar un script, abrir la terminal en la carpeta del proyecto y ejecutar:
