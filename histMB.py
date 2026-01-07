@@ -1,4 +1,3 @@
-# Hacer histograma de energías de las partículas
 import numpy as np
 import matplotlib.pyplot as plt
 from simulation import simulation
@@ -62,4 +61,5 @@ for T in temperaturas:
 
     plt.legend()
     plt.tight_layout()
+
     plt.show()
