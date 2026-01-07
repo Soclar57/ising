@@ -21,11 +21,8 @@ Archivos y propósito
 - `beta.py`  
   Carga los datos guardados (`beta_logdata.dat`), calcula el exponente beta mediante regresión lineal, grafica la recta ajustada y muestra el valor y el error de la pendiente.
 
-- `equilibrio_autocorrelacion.py`  
-  [Descripción vacía]
-
-- `Equilibrio_magnetizacion_energia.py`  
-  [Descripción vacía]
+- `equilibrio_autocorrelacion.py` y `Equilibrio_magnetizacion_energia.py`
+  Scripts que estudian distintos criterios de estado de equilibrio.
 
 Ejecución
 Para ejecutar un script, abrir la terminal en la carpeta del proyecto y ejecutar:
